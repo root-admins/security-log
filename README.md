@@ -39,7 +39,7 @@ or
 ```code
 Try automatically Auto-assigning work with vscode by Microsoft and collaboration process with GitHub Actions.
 ```
-Run a continuous integration test
+AutoRun a continuous integration test driven
 ```code
 Validate every your code using a CI workflow on vscode by Microsoft with collaboration Github Actions.
 ```
